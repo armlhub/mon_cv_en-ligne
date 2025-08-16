@@ -1,0 +1,53 @@
+.contenue{
+    width: 500px;
+    margin: 0 auto;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border: 2px solid lightgrey;
+    border-radius: 50%;
+}
+.liste-contenue{
+    font-size: 18px;
+    margin-top: -130px;
+    margin-left: 160px;
+    list-style-type: none;
+}
+.liste-contenue .li_1:hover{
+    width: 50px;
+    background-color: lightgrey;
+    color: white;
+    border-bottom-left-radius: 2px solid black;
+}
+.liste-contenue .li_2:hover{
+    width: 60px;
+    background-color: lightgrey;
+    color: white;
+}
+.liste-developpeur{
+    text-align:center;
+    margin-top: 50px;
+}
+.liste-formation h1{
+    text-align: center;
+} 
+.liste-experience{
+
+}
+.liste-experience h1{
+    text-align: center;
+}
+strong{
+    text-decoration: underline;
+}
+.liste-competences h1{
+    text-align: center;
+}
+.liste-competences ul:hover{
+    color: blue;
+    background-color: lightgrey;
+}
+hr{
+    border: 1px solid lightblue;
+}
